@@ -1,2 +1,2 @@
-# CLICKS
-REACT Clicky Game
+# CLICKY
+Selection game utilizing REACT components
